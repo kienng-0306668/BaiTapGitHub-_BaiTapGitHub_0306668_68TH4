@@ -7,6 +7,6 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
-            
+        <TextBlock Text="Hello thầy Hải đẹp trai" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" Foreground="Pink"/>
     </Grid>
 </UserControl>
